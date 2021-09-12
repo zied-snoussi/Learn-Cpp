@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 int main() 
 {
@@ -22,3 +23,4 @@ int main()
 	std::cout << "\nl = " << l;
 	return 0;
 }
+*/
