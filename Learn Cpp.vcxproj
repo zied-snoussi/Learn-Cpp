@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="Escape Sequence.cpp" />
     <ClCompile Include="First project in c++.cpp" />
+    <ClCompile Include="Variables vs Data type.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
